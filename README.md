@@ -134,3 +134,6 @@ UI table updates instantly
 
 MongoDB contains import log documents
 
+<img width="1903" height="1027" alt="image" src="https://github.com/user-attachments/assets/edd8de64-008b-40d2-9425-723de8c621b0" />
+
+
